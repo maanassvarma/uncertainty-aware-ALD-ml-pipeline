@@ -69,10 +69,5 @@ All artifacts are saved to `./outputs/`:
 
 ---
 
-## Why this project matters
-
-* Demonstrates **independent engineering beyond lab work**.
-* Shows ability to integrate **ML, HPC readiness, and reproducibility practices**.
-* Provides interpretable, uncertainty-aware predictions for ALD process optimization.
 
 
